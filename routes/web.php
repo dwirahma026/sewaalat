@@ -17,3 +17,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/login', function () {
+    return view('dwlogin');
+});
+
+Route::get('/dashboard', function () {
+    return view('dtdashboard');
+});
+
+Route::get('/pesanan', function () {
+    return view('arpesanan');
+});
