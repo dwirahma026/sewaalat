@@ -1,3 +1,6 @@
+<html>
 <div>
-    <!-- Life is available only in the present moment. - Thich Nhat Hanh -->
+<p> ini percobaan tampilan dashboards<p>
+
+<html>
 </div>
