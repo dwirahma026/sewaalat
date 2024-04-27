@@ -21,6 +21,10 @@ Route::get('/login', function () {
     return view('dwlogin');
 });
 
+Route::get('/daftar', function () {
+    return view('dwdaftar');
+});
+
 Route::get('/dashboard', function () {
     return view('dtdashboard');
 });
