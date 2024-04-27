@@ -21,10 +21,18 @@ Route::get('/login', function () {
     return view('dwlogin');
 });
 
+Route::get('/daftar', function () {
+    return view('dwdaftar');
+});
+
 Route::get('/dashboard', function () {
     return view('dtdashboard');
 });
 
-Route::get('/pesanan', function () {
-    return view('arpesanan');
+Route::get('/keranjang', function () {
+    return view('arkeranjang');
+});
+
+Route::get('/pembayaran', function () {
+    return view('arpembayaran');
 });
