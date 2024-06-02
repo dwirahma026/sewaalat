@@ -25,8 +25,16 @@ Route::get('/daftar', function () {
     return view('dwdaftar');
 });
 
-Route::get('/dashboard', function () {
-    return view('dtdashboard');
+Route::get('/dashboardpenyewa', function () {
+    return view('dwdashboardpenyewa');
+});
+
+Route::get('/pesanan', function () {
+    return view('dwpesanan');
+});
+
+Route::get('/rincianpesanan', function () {
+    return view('dwrincianpesanan');
 });
 
 Route::get('/keranjang', function () {

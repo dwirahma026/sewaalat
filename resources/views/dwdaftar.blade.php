@@ -11,10 +11,10 @@
         <div>
             <div class="flex items-center">
                 <div class="font-bold px-4 py-5">
-                    <a href="daftar.html">Daftar</a>
+                    <a href="">Daftar</a>
                 </div>
                 <div class="font-bold px-4 py-5">
-                    <a href="login.html">Login</a>
+                    <a href="">Login</a>
                 </div>
             </div>
         </div>
