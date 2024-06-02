@@ -51,7 +51,7 @@
                             Gambar
                         </th>
                         <th scope="col" class="py-5 self-center text-center">
-                            Nama Lengkap
+                            Nama
                         </th>
                         <th scope="col" class="py-5 self-center text-center">
                             Jumlah
