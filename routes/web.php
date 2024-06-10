@@ -29,6 +29,14 @@ Route::get('/dashboardpenyewa', function () {
     return view('dwdashboardpenyewa');
 });
 
+Route::get('/dashboardadmin', function () {
+    return view('dwadmindashboard');
+});
+
+Route::get('/pesananadmin', function () {
+    return view('dwadminpesanan');
+});
+
 Route::get('/pesanan', function () {
     return view('dwpesanan');
 });
