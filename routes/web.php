@@ -52,3 +52,7 @@ Route::get('/keranjang', function () {
 Route::get('/pembayaran', function () {
     return view('arpembayaran');
 });
+
+Route::get('/kodebooking', function () {
+    return view('arkodebooking');
+});

@@ -20,7 +20,7 @@
         </div>
     </div>
     <div class="flex justify-center items-center h-screen flex-col">
-    <div class="py-3 text-regular text-center text-xl tracking-widest">Logo</div>
+    <img src="img/logoPBL.png" alt="Logo" width="150" class="mx-auto d-block my-5">
     <div class="bg-yellow-100 w-1/4 p-2 shadow-2xl">
         <div class="py-3 font-serif text-center text-xl">MASUK</div>
         <div>

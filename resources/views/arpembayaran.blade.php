@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pembayaran</title>
-  
+    @vite(['resources/css/app.css', 'resources/js/app.js']);
+
 </head>
 
 <body>
@@ -32,7 +33,7 @@
                         Kode Booking :
                     </h6>
                     <h6>
-                        Nama :
+                        Nama Lengkap :
                     </h6>
                 </div>
                 <div class=" w-1/2">
