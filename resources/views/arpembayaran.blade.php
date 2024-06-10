@@ -33,7 +33,7 @@
                         Kode Booking :
                     </h6>
                     <h6>
-                        Nama :
+                        Nama Lengkap :
                     </h6>
                 </div>
                 <div class=" w-1/2">
