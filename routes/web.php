@@ -45,8 +45,8 @@ Route::get('/lihatprodukadmin', function () {
     return view('dwadminlihatproduk');
 });
 
-Route::get('/rincianprodukadmin', function () {
-    return view('dwadminrincianproduk');
+Route::get('/rincianpesananadmin', function () {
+    return view('dwadminrincianpesanan');
 });
 
 Route::get('/editprodukadmin', function () {
