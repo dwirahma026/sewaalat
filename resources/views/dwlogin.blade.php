@@ -6,22 +6,21 @@
     <title>LOGIN</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+<body class="bg-gray-100">
     <div class="bg-lime-400 w-full h-18">
         <div>
             <div class="flex items-center">
                 <div class="font-bold px-4 py-5">
-                    <a href="">Daftar</a>
-                </div>
-                <div class="font-bold px-4 py-5">
-                    <a href="">Login</a>
+                    <a href="/daftar">Daftar</a>
                 </div>
             </div>
         </div>
     </div>
-    <div class="flex justify-center items-center h-screen flex-col">
-    <img src="img/logoPBL.png" alt="Logo" width="150" class="mx-auto d-block my-5">
-    <div class="bg-yellow-100 w-1/4 p-2 shadow-2xl">
+    <div class="flex justify-center items-center flex-col">
+    <div class="mt-20">
+        <img src="img/logoPBL.png" alt="Logo" width="100">
+    </div>
+    <div class="bg-yellow-100 w-1/4 p-2 shadow-2xl mt-20">
         <div class="py-3 font-serif text-center text-xl">MASUK</div>
         <div>
             <form action="" class="flex flex-col items-center">

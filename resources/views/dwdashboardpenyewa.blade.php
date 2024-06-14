@@ -6,12 +6,14 @@
     <title>DASHBOARD</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+<body class="bg-gray-100">
     <div class="bg-lime-400 w-full h-18">
         <div class="flex items-center justify-between">
             <div class="flex">
-                <div class="px-4 py-5">logo</div>
-                <a href="">
+                <div class="px-4 py-5">
+                    <img src="img/logoPBL.png" alt="Logo" width="40">
+                </div>
+                <a href="/dashboardpenyewa">
                     <div class="flex items-center font-bold px-4 py-5">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-9 h-9">
                             <path d="M11.47 3.841a.75.75 0 0 1 1.06 0l8.69 8.69a.75.75 0 1 0 1.06-1.061l-8.689-8.69a2.25 2.25 0 0 0-3.182 0l-8.69 8.69a.75.75 0 1 0 1.061 1.06l8.69-8.689Z" />

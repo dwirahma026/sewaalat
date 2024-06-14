@@ -6,11 +6,13 @@
     <title>RINCIAN PESANAN</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+<body class="bg-gray-100">
     <div class="bg-lime-400 w-full h-18">
         <div class="flex items-center justify-between">
             <div class="flex">
-                <div class="px-4 py-5">logo</div>
+                <div class="px-4 py-5">
+                    <img src="img/logoPBL.png" alt="Logo" width="40">
+                </div>
                 <a href="">
                     <div class="flex items-center font-bold px-4 py-5">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-9 h-9">
